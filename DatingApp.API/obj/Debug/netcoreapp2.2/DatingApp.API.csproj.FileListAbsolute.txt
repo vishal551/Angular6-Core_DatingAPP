@@ -12,3 +12,17 @@ e:\Asp.net core tutorial\SampleCoreAPP\DatingAPP\DatingApp.API\obj\Debug\netcore
 e:\Asp.net core tutorial\SampleCoreAPP\DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
 e:\Asp.net core tutorial\SampleCoreAPP\DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
 e:\Asp.net core tutorial\SampleCoreAPP\DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+E:\github\DatingAPP\Angular6-Core_DatingAPP\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
